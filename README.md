@@ -1,2 +1,2 @@
 # Simple-neural-network-single-perceptron-
-This  is useful to  understand how neural networks works in the fundamental level 
+This  is useful to  understand how neural networks works in the fundamental level.The codes here in this repository only use numpy, pandas, matplotlib and implements a simple neaural networks with one and two pecertron in low level using mathematical formulas . This repository is useful to understand a neural networks internal workings at a fundamental level.
